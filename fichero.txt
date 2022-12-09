@@ -1,3 +1,4 @@
 Contenido fichero
-Contenido posterior a clonar
-Contenido del repo 2
+Contenido extra
+Contenido del repo 1 fucionado con el repo 2
+
